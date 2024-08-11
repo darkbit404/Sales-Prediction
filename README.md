@@ -44,4 +44,23 @@ To run this project, you need to have Python installed. Clone this repository an
 
 ```bash
 pip install -r requirements.txt
+```
+### Usage
+
+1. **Training the Model**: Run the `main.py` script to train the model.
+2. **Making Predictions**: After training, the model will generate predictions for the test set.
+3. **Saving the Model**: The trained model is saved as `trained_model.pkl`.
+
+### Dependencies
+
+See the `requirements.txt` file for a list of required packages.
+
+### Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+### License
+
+This project is licensed under the MIT License.
+
 
